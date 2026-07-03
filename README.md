@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Hi, I'm Rohini
 
-<!--
-**Rohini-13/Rohini-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst specializing in Power BI, Tableau, SQL, Excel, and Python.
 
-Here are some ideas to get you started:
+📂 Portfolio:
+➡️ [Link to your Data-Analyst-Portfolio repository](https://github.com/Rohini-13/Data-Analyst-Portfolio/blob/main/README.md)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ Featured Projects
+• Bike Sales Dashboard
+• Netflix Dashboard
+• HR Dashboard
+• DiabetesPulse AI Agent
+
+📫 Connect
+LinkedIn - https://www.linkedin.com/in/rohini-r-0b788b194/
+
+Email - rohinirameshkumar13@gmail.com
+
+GitHub - https://github.com/Rohini-13
